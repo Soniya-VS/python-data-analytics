@@ -31,9 +31,3 @@ The project uses temperature data, student marks, and transaction records to dem
 - Value counts and unique values
 - Grouping data and calculating mean
 - Adding, modifying, and deleting columns and rows
-
-## Technologies Used
-- Python
-- NumPy
-- Pandas
-- Jupyter Notebook
