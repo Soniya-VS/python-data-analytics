@@ -292,5 +292,3 @@ M.Sc. Statistics
 Aspiring Data Analyst
 
 ---
-
-*This project was completed as part of Python Data Analysis learning and practical application.*
